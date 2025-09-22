@@ -1,1 +1,1 @@
-Esto es un commit de prueba para probar las clavea GPG
+Esto es un commit de prueba para probar las clavea GPG v2
